@@ -1,12 +1,21 @@
 ## Hi there 👋
 
-<!--
+## 这里是 RMYC-Lab
 
-**Here are some ideas to get you started:**
+目前该组织项目代码主要由 GYYZ-RMYC 贡献，我们欢迎各大组织/机构/学校/个人一起参与代码的贡献！
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 一些心里话
+
+今年的比赛极有可能是最后一场 YC 的比赛
+
+虽然说 YC 的比赛很*水*，也是小圈子范围内的小打小闹，与大学组的 UC 相差甚远
+
+但我们希望通过开源的力量，参考大学组的逻辑，在 YC 中展现真正的实力
+
+无论你们是来自什么省份、什么学校、战绩如何
+
+我们都欢迎你们在比赛上展现出自己创新的地方
+
+充分利用开源资源
+
+经行一次真正的较量
