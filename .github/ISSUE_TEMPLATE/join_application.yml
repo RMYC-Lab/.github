@@ -1,0 +1,27 @@
+name: "🎉Join organization"
+description: "Welcome to join the us!"
+title: "Application for Accession"
+labels: ["invitation"]
+assignees:
+  - Cranyozen
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this invitation post!
+        **ALL content is allowed in CHINESE**
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: Your contact information. Will be used in the technical review environment, and QQ number is the best
+      placeholder: ex. QQ number 11451419
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What are your ideas on RMYC?
+      value: "I think..."
+    validations:
+      required: true
