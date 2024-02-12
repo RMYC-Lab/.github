@@ -26,6 +26,13 @@ body:
     validations:
       required: false
   - type: textarea
+    id: hobby
+    attributes:
+      label: 你在 RMYC 比赛中兴趣/负责的方向
+      value: "..."
+    validations:
+      required: false
+  - type: textarea
     id: additional-information
     attributes:
       label: 对于你技术的补充性资料
