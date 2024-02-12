@@ -34,7 +34,7 @@
 
 欢迎您加入我们！组织内部有更多、更详细的开发资料
 
-您可以在[此仓库](https://github.com/RMYC-Lab/.github)中提出 Issues，并留下自己的联系方式
+您可以在[此仓库](https://github.com/RMYC-Lab/join-us)中提出 [Issues](https://github.com/RMYC-Lab/join-us/issues)，并留下自己的联系方式
 
 通过技术审查后即可加入组织
 
